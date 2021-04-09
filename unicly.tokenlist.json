@@ -57,6 +57,62 @@
         "logoURI": "https://raw.githubusercontent.com/0xLeia/token-list/main/assets/unicly.svg"
       },
       {
+        "name": "Hashmask",
+        "address": "0x5872E64C3f93363822D2B1e4717Be3398FDCEA51",
+        "symbol": "uMASK",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x5872e64c3f93363822d2b1e4717be3398fdcea51/logo.svg"
+      },
+      {
+        "name": "MoonCats",
+        "address": "0x683239A4caB49642c6E025cF81D283f9c87bC07D",
+        "symbol": "uMOON",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x683239a4cab49642c6e025cf81d283f9c87bc07d/logo.svg"
+      },
+      {
+        "name": "Doki Doki Official Collection",
+        "address": "0x7E6C38D007740931E4B419bF15A68c79a0fb0c66",
+        "symbol": "uDOKI",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x7e6c38d007740931e4b419bf15a68c79a0fb0c66/logo.svg"
+      },
+      {
+        "name": "WAIFU NFT Collection",
+        "address": "0x7E6C38D007740931E4B419bF15A68c79a0fb0c66",
+        "symbol": "uWAIFU",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x3ac7a71b97183e3db7722c75eaa8df2c1a0badfc/logo.svg"
+      },
+      {
+        "name": "Unicly Genesis Collection",
+        "address": "0x3d9233F15BB93C78a4f07B5C5F7A018630217cB3",
+        "symbol": "uUNICLY",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x3d9233f15bb93c78a4f07b5c5f7a018630217cb3/logo.svg"
+      },
+      {
+        "name": "CM Collection",
+        "address": "0x5fb99A3593d7088e44377a1bEb27739Bd928F269",
+        "symbol": "uCM",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x5fb99a3593d7088e44377a1beb27739bd928f269/logo.svg"
+      },
+      {
+        "name": "The Day by Arc",
+        "address": "0x44440bD68b5E4B1E0cb810669097e9573175601b",
+        "symbol": "uARC",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x44440bd68b5e4b1e0cb810669097e9573175601b/logo.svg"
+      },
+      {
         "name": "Dai Stablecoin",
         "address": "0x5592ec0cfb4dbc12d3ab100b257153436a1f0fea",
         "symbol": "DAI",
