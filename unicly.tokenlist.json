@@ -113,6 +113,22 @@
         "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x44440bd68b5e4b1e0cb810669097e9573175601b/logo.svg"
       },
       {
+        "name": "Gone Studio - Toon Raiders 1",
+        "address": "0xcB6396AabB7418c3c7bAF4B43947def6D95cc022",
+        "symbol": "uGONETOONEONE",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0xcb6396aabb7418c3c7baf4b43947def6d95cc022/logo.svg"
+      },
+      {
+        "name": "Binance Zodiacs",
+        "address": "0x1c468e0D8b0576d659064C6A5B9FEE1cba51eEe5",
+        "symbol": "uZODIAC",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x1c468e0d8b0576d659064c6a5b9fee1cba51eee5/logo.svg"
+      },
+      {
         "name": "Dai Stablecoin",
         "address": "0x5592ec0cfb4dbc12d3ab100b257153436a1f0fea",
         "symbol": "DAI",
