@@ -129,6 +129,14 @@
         "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x1c468e0d8b0576d659064c6a5b9fee1cba51eee5/logo.svg"
       },
       {
+        "name": "Aavegotchi Astronauts",
+        "address": "0x30C2a84AeD6Db30E31cf4d7059b1836c12c68068",
+        "symbol": "uGOTCHI",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x30c2a84aed6db30e31cf4d7059b1836c12c68068/logo.svg"
+      },
+      {
         "name": "Dai Stablecoin",
         "address": "0x5592ec0cfb4dbc12d3ab100b257153436a1f0fea",
         "symbol": "DAI",
