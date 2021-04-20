@@ -137,6 +137,14 @@
         "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x30c2a84aed6db30e31cf4d7059b1836c12c68068/logo.svg"
       },
       {
+        "name": "CryptoPunks",
+        "address": "0x8d2BFfCbB19Ff14A698C424FbcDcFd17aab9b905",
+        "symbol": "uPUNK",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x8d2bffcbb19ff14a698c424fbcdcfd17aab9b905/logo.svg"
+      },
+      {
         "name": "Dai Stablecoin",
         "address": "0x5592ec0cfb4dbc12d3ab100b257153436a1f0fea",
         "symbol": "DAI",
