@@ -145,6 +145,14 @@
         "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x8d2bffcbb19ff14a698c424fbcdcfd17aab9b905/logo.svg"
       },
       {
+        "name": "Formula Revv",
+        "address": "0x72B19558b05706708B612FBBe86B71446eafC002",
+        "symbol": "uREVV",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x72b19558b05706708b612fbbe86b71446eafc002/logo.svg"
+      },
+      {
         "name": "Dai Stablecoin",
         "address": "0x5592ec0cfb4dbc12d3ab100b257153436a1f0fea",
         "symbol": "DAI",
