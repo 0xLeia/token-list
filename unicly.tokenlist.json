@@ -153,6 +153,14 @@
         "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x72b19558b05706708b612fbbe86b71446eafc002/logo.svg"
       },
       {
+        "name": "Mystic Axies",
+        "address": "0x68B1CaDb8D5Ab0C97Fe9D9fbE0Eb60acB329Fe3f",
+        "symbol": "uAXIE",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x68b1cadb8d5ab0c97fe9d9fbe0eb60acb329fe3f/logo.svg"
+      },
+      {
         "name": "Dai Stablecoin",
         "address": "0x5592ec0cfb4dbc12d3ab100b257153436a1f0fea",
         "symbol": "DAI",
