@@ -161,6 +161,14 @@
         "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x68b1cadb8d5ab0c97fe9d9fbe0eb60acb329fe3f/logo.svg"
       },
       {
+        "name": "Gone Studio",
+        "address": "0xC9Df0eD2E9eF4357b51DB171FF08297d10875280",
+        "symbol": "uGONE",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0xc9df0ed2e9ef4357b51db171ff08297d10875280/logo.svg"
+      },
+      {
         "name": "Dai Stablecoin",
         "address": "0x5592ec0cfb4dbc12d3ab100b257153436a1f0fea",
         "symbol": "DAI",
