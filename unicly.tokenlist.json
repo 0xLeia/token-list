@@ -169,6 +169,14 @@
         "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0xc9df0ed2e9ef4357b51db171ff08297d10875280/logo.svg"
       },
       {
+        "name": "The Beeple Collection",
+        "address": "0xcB4b17b9Fa78Bf1faC6D239e5BCe291035750b6c",
+        "symbol": "uBEEPLE",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0xcb4b17b9fa78bf1fac6d239e5bce291035750b6c/logo.svg"
+      },
+      {
         "name": "Dai Stablecoin",
         "address": "0x5592ec0cfb4dbc12d3ab100b257153436a1f0fea",
         "symbol": "DAI",
