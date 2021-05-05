@@ -177,6 +177,14 @@
         "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0xcb4b17b9fa78bf1fac6d239e5bce291035750b6c/logo.svg"
       },
       {
+        "name": "Autoglyphs Collection",
+        "address": "0xF503BF7a7b0962205668ed041140f4af360304Be",
+        "symbol": "uBEEPLE",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0xf503bf7a7b0962205668ed041140f4af360304be/logo.svg"
+      },
+      {
         "name": "Dai Stablecoin",
         "address": "0x5592ec0cfb4dbc12d3ab100b257153436a1f0fea",
         "symbol": "DAI",
