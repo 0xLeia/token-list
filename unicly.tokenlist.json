@@ -179,7 +179,7 @@
       {
         "name": "Autoglyphs Collection",
         "address": "0xF503BF7a7b0962205668ed041140f4af360304Be",
-        "symbol": "uBEEPLE",
+        "symbol": "uGLYPH",
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0xf503bf7a7b0962205668ed041140f4af360304be/logo.svg"
