@@ -193,6 +193,14 @@
         "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0xa46f33694f5b31a6ed27eda16ccd466e94c80f1a/logo.svg"
       },
       {
+        "name": "The Jenny Metaverse DAO Token",
+        "address": "0xa499648fD0e80FD911972BbEb069e4c20e68bF22",
+        "symbol": "uJENNY",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0xa499648fd0e80fd911972bbeb069e4c20e68bf22/logo.svg"
+      },
+      {
         "name": "Dai Stablecoin",
         "address": "0x5592ec0cfb4dbc12d3ab100b257153436a1f0fea",
         "symbol": "DAI",
