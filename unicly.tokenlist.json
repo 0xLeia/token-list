@@ -201,6 +201,14 @@
         "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0xa499648fd0e80fd911972bbeb069e4c20e68bf22/logo.svg"
       },
       {
+        "name": "The Jordan Sneakers Collection",
+        "address": "0xAFFdb768e5f909b9a6Ed110ad724B5E454670c08",
+        "symbol": "uJORDAN",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0xaffdb768e5f909b9a6ed110ad724b5e454670c08/logo.svg"
+      },
+      {
         "name": "Dai Stablecoin",
         "address": "0x5592ec0cfb4dbc12d3ab100b257153436a1f0fea",
         "symbol": "DAI",
