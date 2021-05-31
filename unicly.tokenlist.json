@@ -217,6 +217,14 @@
         "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0xcccf837f40d334f8602f031e64b52ad4cd2b6601/logo.svg"
       },
       {
+        "name": "The Bored Apes Collection",
+        "address": "0xcC7d3706EA82cdb4Ec7D2a3eaC0e487E17Ab975A",
+        "symbol": "uFEWO",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0xcc7d3706ea82cdb4ec7d2a3eac0e487e17ab975a/logo.svg"
+      },
+      {
         "name": "Dai Stablecoin",
         "address": "0x5592ec0cfb4dbc12d3ab100b257153436a1f0fea",
         "symbol": "DAI",
