@@ -225,6 +225,14 @@
         "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0xcc7d3706ea82cdb4ec7d2a3eac0e487e17ab975a/logo.svg"
       },
       {
+        "name": "The BadgerDAO Collection",
+        "address": "0x849d6f95cFfd95e4e9B129Cdc1ADDd83eCC72464",
+        "symbol": "uBADGER",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x849d6f95cffd95e4e9b129cdc1addd83ecc72464/logo.svg"
+      },
+      {
         "name": "Dai Stablecoin",
         "address": "0x5592ec0cfb4dbc12d3ab100b257153436a1f0fea",
         "symbol": "DAI",
@@ -268,6 +276,6 @@
     "version": {
       "major": 1,
       "minor": 1,
-      "patch": 1
+      "patch": 2
     }
   }
