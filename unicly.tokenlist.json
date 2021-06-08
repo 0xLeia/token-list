@@ -6,7 +6,7 @@
       "nft",
       "defi"
     ],
-    "timestamp": "2020-06-05T12:00:00.000+00:00",
+    "timestamp": "2020-06-06T12:00:00.000+00:00",
     "tokens": [
       {
         "name": "Dai Stablecoin",
@@ -275,7 +275,7 @@
     ],
     "version": {
       "major": 1,
-      "minor": 1,
-      "patch": 2
+      "minor": 2,
+      "patch": 0
     }
   }
