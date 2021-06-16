@@ -233,6 +233,22 @@
         "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x849d6f95cffd95e4e9b129cdc1addd83ecc72464/logo.svg"
       },
       {
+        "name": "The Ahegao DAO Collection",
+        "address": "0x6a8D59758D7374fCF6b0002a57E7A57Ecc591052",
+        "symbol": "uAAH",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x6a8d59758d7374fcf6b0002a57e7a57ecc591052/logo.svg"
+      },
+      {
+        "name": "The Polkamon Collection",
+        "address": "0x7eF245c52B15ADba60645815D8056c091DfaE968",
+        "symbol": "uPMON",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x7ef245c52b15adba60645815d8056c091dfae968/logo.svg"
+      },
+      {
         "name": "The Arblocks Collection",
         "address": "0xF824402747e5142d04892FDc27C73E6460E80080",
         "symbol": "uARTBLOCKS",
@@ -283,7 +299,7 @@
     ],
     "version": {
       "major": 1,
-      "minor": 3,
+      "minor": 4,
       "patch": 0
     }
   }
