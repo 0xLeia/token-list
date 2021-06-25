@@ -218,11 +218,11 @@
       },
       {
         "name": "The Bored Apes Collection",
-        "address": "0xcC7d3706EA82cdb4Ec7D2a3eaC0e487E17Ab975A",
+        "address": "0x17e347aad89B30b96557BCBfBff8a14e75CC88a1",
         "symbol": "uAPE",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0xcc7d3706ea82cdb4ec7d2a3eac0e487e17ab975a/logo.svg"
+        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x17e347aad89b30b96557bcbfbff8a14e75cc88a1/logo.svg"
       },
       {
         "name": "The BadgerDAO Collection",
@@ -299,7 +299,7 @@
     ],
     "version": {
       "major": 1,
-      "minor": 4,
+      "minor": 5,
       "patch": 0
     }
   }
