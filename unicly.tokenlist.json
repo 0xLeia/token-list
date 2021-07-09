@@ -257,6 +257,14 @@
         "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0xf824402747e5142d04892fdc27c73e6460e80080/logo.svg"
       },
       {
+        "name": "The Genesis Mooncats Collection",
+        "address": "0xD4f2249dd6c26446F1413f6d97F14fcaa7792545",
+        "symbol": "uGMC",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0xd4f2249dd6c26446f1413f6d97f14fcaa7792545/logo.svg"
+      },
+      {
         "name": "Dai Stablecoin",
         "address": "0x5592ec0cfb4dbc12d3ab100b257153436a1f0fea",
         "symbol": "DAI",
@@ -299,7 +307,7 @@
     ],
     "version": {
       "major": 1,
-      "minor": 5,
+      "minor": 6,
       "patch": 0
     }
   }
