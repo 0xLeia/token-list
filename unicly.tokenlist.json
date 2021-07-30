@@ -265,6 +265,14 @@
         "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0xd4f2249dd6c26446f1413f6d97f14fcaa7792545/logo.svg"
       },
       {
+        "name": "The Doge Pound Collection",
+        "address": "0x87f430Cf7E3d165A889f4A3166E80093980F0f74",
+        "symbol": "uDOGE",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x87f430cf7e3d165a889f4a3166e80093980f0f74/logo.svg"
+      },
+      {
         "name": "Dai Stablecoin",
         "address": "0x5592ec0cfb4dbc12d3ab100b257153436a1f0fea",
         "symbol": "DAI",
@@ -307,7 +315,7 @@
     ],
     "version": {
       "major": 2,
-      "minor": 0,
+      "minor": 1,
       "patch": 0
     }
   }
