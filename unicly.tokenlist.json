@@ -273,6 +273,14 @@
         "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x87f430cf7e3d165a889f4a3166e80093980f0f74/logo.svg"
       },
       {
+        "name": "Degen Farmers Collection",
+        "address": "0x0644dFa300A14CbDCBA17f8CE540b8e9c41EDE60",
+        "symbol": "uDFNORM",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x0644dfa300a14cbdcba17f8ce540b8e9c41ede60/logo.svg"
+      },
+      {
         "name": "Dai Stablecoin",
         "address": "0x5592ec0cfb4dbc12d3ab100b257153436a1f0fea",
         "symbol": "DAI",
