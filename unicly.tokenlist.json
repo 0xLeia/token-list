@@ -281,6 +281,14 @@
         "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x0644dfa300a14cbdcba17f8ce540b8e9c41ede60/logo.svg"
       },
       {
+        "name": "Loot Divine Robe Collection",
+        "address": "0xA376a449Ad0f23A7E60Fb0fE8Ec66c3aC54c3484",
+        "symbol": "uLOOT",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0xa376a449ad0f23a7e60fb0fe8ec66c3ac54c3484/logo.svg"
+      },
+      {
         "name": "Dai Stablecoin",
         "address": "0x5592ec0cfb4dbc12d3ab100b257153436a1f0fea",
         "symbol": "DAI",
