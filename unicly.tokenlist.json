@@ -257,6 +257,14 @@
         "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0xa376a449ad0f23a7e60fb0fe8ec66c3ac54c3484/logo.svg"
       },
       {
+        "name": "PBoy Collection",
+        "address": "0x3E0FE94367F9BB2ea86E0a08A78CD628f64f29C2",
+        "symbol": "uPBOY",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x3e0fe94367f9bb2ea86e0a08a78cd628f64f29c2/logo.svg"
+      },
+      {
         "name": "Dai Stablecoin",
         "address": "0x5592ec0cfb4dbc12d3ab100b257153436a1f0fea",
         "symbol": "DAI",
@@ -298,7 +306,7 @@
       }
     ],
     "version": {
-      "major": 4,
+      "major": 5,
       "minor": 1,
       "patch": 0
     }
