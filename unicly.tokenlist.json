@@ -81,14 +81,6 @@
         "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x44440bd68b5e4b1e0cb810669097e9573175601b/logo.svg"
       },
       {
-        "name": "Gone Studio - Toon Raiders 1",
-        "address": "0xcB6396AabB7418c3c7bAF4B43947def6D95cc022",
-        "symbol": "uGONETOONEONE",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0xcb6396aabb7418c3c7baf4b43947def6d95cc022/logo.svg"
-      },
-      {
         "name": "Binance Zodiacs",
         "address": "0x1c468e0D8b0576d659064C6A5B9FEE1cba51eEe5",
         "symbol": "uZODIAC",
@@ -137,14 +129,6 @@
         "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0xc9df0ed2e9ef4357b51db171ff08297d10875280/logo.svg"
       },
       {
-        "name": "The Beeple Collection",
-        "address": "0xcB4b17b9Fa78Bf1faC6D239e5BCe291035750b6c",
-        "symbol": "uBEEPLE",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0xcb4b17b9fa78bf1fac6d239e5bce291035750b6c/logo.svg"
-      },
-      {
         "name": "Autoglyphs Collection",
         "address": "0xF503BF7a7b0962205668ed041140f4af360304Be",
         "symbol": "uGLYPH",
@@ -185,14 +169,6 @@
         "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0xcccf837f40d334f8602f031e64b52ad4cd2b6601/logo.svg"
       },
       {
-        "name": "The Bored Apes Collection",
-        "address": "0x17e347aad89B30b96557BCBfBff8a14e75CC88a1",
-        "symbol": "uAPE",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x17e347aad89b30b96557bcbfbff8a14e75cc88a1/logo.svg"
-      },
-      {
         "name": "The BadgerDAO Collection",
         "address": "0x849d6f95cFfd95e4e9B129Cdc1ADDd83eCC72464",
         "symbol": "uBADGER",
@@ -215,14 +191,6 @@
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0x7ef245c52b15adba60645815d8056c091dfae968/logo.svg"
-      },
-      {
-        "name": "The Arblocks Collection",
-        "address": "0xF824402747e5142d04892FDc27C73E6460E80080",
-        "symbol": "uARTBLOCKS",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0xf824402747e5142d04892fdc27c73e6460e80080/logo.svg"
       },
       {
         "name": "The Genesis Mooncats Collection",
@@ -330,7 +298,7 @@
       }
     ],
     "version": {
-      "major": 7,
+      "major": 8,
       "minor": 1,
       "patch": 0
     }
