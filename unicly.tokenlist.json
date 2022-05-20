@@ -8,6 +8,14 @@
     ],
     "timestamp": "2020-06-06T12:00:00.000+00:00",
     "tokens": [
+       {
+        "name": "Jenny DAO - v2",
+        "address": "0xcb4D749FD1FF081D6fEA3bd978de87603E098E63",
+        "symbol": "JENNY",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/0xLeia/unicly-utoken-info/main/uTokens/0xa499648fd0e80fd911972bbeb069e4c20e68bf22/logo.svg"
+      },
       {
         "name": "Wrapped Ether",
         "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -330,7 +338,7 @@
       }
     ],
     "version": {
-      "major": 13,
+      "major": 14,
       "minor": 1,
       "patch": 0
     }
